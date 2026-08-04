@@ -1,11 +1,12 @@
 # Healthcare Risk Stratification Framework
+
 ### A Decision Intelligence Case Study for Group Health Insurance
 
 > Transforming healthcare claims into actionable intervention strategies through risk stratification, clinical analytics, and cost concentration modeling.
 
 <p align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐-Interactive_Demo-success?style=for-the-badge)](Showcase/Storytelling%20Risk%20Startification.html)
+[![Live Demo](https://img.shields.io/badge/🌐-Interactive_Demo-success?style=for-the-badge)](<Showcase/Storytelling%20Risk%20Startification.html>)
 [![Presentation](https://img.shields.io/badge/📑-Executive_Presentation-blue?style=for-the-badge)](Showcase/Risk_Stratification.pdf)
 [![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)](#license)
 
@@ -60,16 +61,16 @@ this project asks
 
 # Key Results
 
-| Metric | Result |
-|---------|-------:|
-| Population | **554 Members** |
-| Total Claims | **2,064 Claims** |
-| Annual Spend | **Rp 4.34 Billion** |
-| High Risk Population | **19%** |
-| Spend Concentration | **53.2%** |
-| High Cost Population | **37% generate 62.5% of spend** |
-| Estimated Annual Saving | **Rp 520M+** |
-| Estimated ROI | **3 : 1** |
+| Metric                  |                                Result |
+| ----------------------- | ------------------------------------: |
+| Population              |                 **554 Members** |
+| Total Claims            |                **2,064 Claims** |
+| Annual Spend            |             **Rp 4.34 Billion** |
+| High Risk Population    |                         **19%** |
+| Spend Concentration     |                       **53.2%** |
+| High Cost Population    | **37% generate 62.5% of spend** |
+| Estimated Annual Saving |                    **Rp 520M+** |
+| Estimated ROI           |                       **3 : 1** |
 
 ---
 
@@ -182,15 +183,15 @@ Rather than maximizing accuracy alone, the operating threshold balances interven
 
 # Technology Stack
 
-| Category | Technology |
-|-----------|------------|
-| Analysis | Python |
-| Data Processing | Pandas |
-| Statistics | NumPy |
-| Visualization | Plotly |
-| Mapping | Leaflet |
-| Frontend | HTML / CSS / JavaScript |
-| Dataset | JSON |
+| Category        | Technology              |
+| --------------- | ----------------------- |
+| Analysis        | Python                  |
+| Data Processing | Pandas                  |
+| Statistics      | NumPy                   |
+| Visualization   | Plotly                  |
+| Mapping         | Leaflet                 |
+| Frontend        | HTML / CSS / JavaScript |
+| Dataset         | JSON                    |
 
 ---
 
@@ -201,7 +202,7 @@ Healthcare-Risk-Stratification/
 │
 ├── Showcase/
 │     ├── Risk_Stratification.pdf
-│     ├── Storytelling Risk Startification.html
+│     ├── Presenting Risk Startification.html
 │     ├── carousel_presentation.html
 │     └── data.js
 │
@@ -263,7 +264,7 @@ Planned extensions include
 
 Interactive Demonstration
 
-👉 [**Storytelling Risk Stratification**](Showcase/Storytelling%20Risk%20Startification.html)
+👉 [**Storytelling Risk Stratification**](<Showcase/Storytelling%20Risk%20Startification.html>)
 
 Executive Presentation
 
