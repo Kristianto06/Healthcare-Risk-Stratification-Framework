@@ -264,7 +264,7 @@ Planned extensions include
 
 Interactive Demonstration
 
-👉 [**Storytelling Risk Stratification**](<Showcase/Storytelling%20Risk%20Startification.html>)
+👉 [**Storytelling Risk Stratification**](https://kristianto.pages.dev/projects/risk-stratification/)
 
 Executive Presentation
 
