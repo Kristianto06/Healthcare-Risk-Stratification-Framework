@@ -7,20 +7,16 @@
 <p align="center">
 
 <a href="https://kristianto.pages.dev/projects/risk-stratification/">
-    <img src="https://img.shields.io/badge/🌐-Live%20Demo-22C55E?style=for-the-badge" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Live-Demo-22C55E?style=for-the-badge" alt="Live Demo">
 </a>
 
 <a href="https://kristianto.pages.dev/Showcase/Risk_Stratification.pdf">
-    <img src="https://img.shields.io/badge/📑-Executive%20Presentation-2563EB?style=for-the-badge" alt="Presentation">
+    <img src="https://img.shields.io/badge/Executive-Presentation-2563EB?style=for-the-badge" alt="Executive Presentation">
 </a>
 
-<img src="https://img.shields.io/badge/Healthcare-Analytics-DC2626?style=for-the-badge" alt="Healthcare Analytics">
-
-<img src="https://img.shields.io/badge/554-Members-7C3AED?style=for-the-badge" alt="554 Members">
-
-<img src="https://img.shields.io/badge/Rp%204.34B-Claims-059669?style=for-the-badge" alt="Claims">
-
-<img src="https://img.shields.io/badge/License-MIT-111827?style=for-the-badge" alt="MIT">
+<a href="#license">
+    <img src="https://img.shields.io/badge/License-MIT-111827?style=for-the-badge" alt="MIT License">
+</a>
 
 </p>
 
