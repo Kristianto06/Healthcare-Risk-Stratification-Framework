@@ -5,8 +5,7 @@
 > Transforming healthcare claims into actionable intervention strategies through risk stratification, clinical analytics, and cost concentration modeling.
 
 <p align="center">
-
-[![Live Demo](https://img.shields.io/badge/🌐-Interactive_Demo-success?style=for-the-badge)](<Showcase/[Storytelling%20Risk%20Startification.html](https://kristianto.pages.dev/)>)
+[![Live Demo](https://img.shields.io/badge/🌐-Interactive_Demo-success?style=for-the-badge)](https://kristianto.pages.dev/Showcase/Storytelling%20Risk%20Stratification.html)
 [![Presentation](https://img.shields.io/badge/📑-Executive_Presentation-blue?style=for-the-badge)](Showcase/Risk_Stratification.pdf)
 [![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)](#license)
 
