@@ -5,9 +5,22 @@
 > Transforming healthcare claims into actionable intervention strategies through risk stratification, clinical analytics, and cost concentration modeling.
 
 <p align="center">
-[![Live Demo](https://img.shields.io/badge/🌐-Interactive_Demo-success?style=for-the-badge)](https://kristianto.pages.dev/Showcase/Storytelling%20Risk%20Stratification.html)
-[![Presentation](https://img.shields.io/badge/📑-Executive_Presentation-blue?style=for-the-badge)](Showcase/Risk_Stratification.pdf)
-[![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)](#license)
+
+<a href="https://kristianto.pages.dev/projects/risk-stratification/">
+    <img src="https://img.shields.io/badge/🌐-Live%20Demo-22C55E?style=for-the-badge" alt="Live Demo">
+</a>
+
+<a href="https://kristianto.pages.dev/Showcase/Risk_Stratification.pdf">
+    <img src="https://img.shields.io/badge/📑-Executive%20Presentation-2563EB?style=for-the-badge" alt="Presentation">
+</a>
+
+<img src="https://img.shields.io/badge/Healthcare-Analytics-DC2626?style=for-the-badge" alt="Healthcare Analytics">
+
+<img src="https://img.shields.io/badge/554-Members-7C3AED?style=for-the-badge" alt="554 Members">
+
+<img src="https://img.shields.io/badge/Rp%204.34B-Claims-059669?style=for-the-badge" alt="Claims">
+
+<img src="https://img.shields.io/badge/License-MIT-111827?style=for-the-badge" alt="MIT">
 
 </p>
 
